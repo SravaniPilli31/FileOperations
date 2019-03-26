@@ -1,0 +1,11 @@
+Now we want to change the data type of the column
+We use the following SQL statement
+column is now of type year and is going
+
+need a cat
+need to find a cat
+in this string
+
+this line doesn't have cat
+next line will have cat
+this is cat

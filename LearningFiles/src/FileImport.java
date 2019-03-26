@@ -18,8 +18,6 @@ public class FileImport {
 				System.out.println(str);
 			}
 			//close the file
-			dis.close();
-		
+			dis.close();	
 	}
-
 }
